@@ -1,6 +1,6 @@
-# menooaavrand.com
+# danielmangasarian.com
 
-Personal website with relevant information about me and my projects.
+A personal website showcasing my background, experience, and projects in a refined format.
 
 ## Customization
 
